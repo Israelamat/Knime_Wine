@@ -39,3 +39,5 @@ Construir un modelo que, a partir de las características químicas de un vino, 
 1. Abrir el workflow en KNIME.  
 2. Ejecutar los nodos en orden para preparar los datos, entrenar el modelo y evaluar resultados.  
 3. Analizar la matriz de confusión para evaluar el desempeño del modelo.
+
+![Diagrama KNIME](M6_Practica18/images/work_flow.png)
