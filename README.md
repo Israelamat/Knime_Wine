@@ -40,4 +40,4 @@ Construir un modelo que, a partir de las características químicas de un vino, 
 2. Ejecutar los nodos en orden para preparar los datos, entrenar el modelo y evaluar resultados.  
 3. Analizar la matriz de confusión para evaluar el desempeño del modelo.
 
-![Diagrama KNIME]([![Captura-de-pantalla-2025-06-24-141720.jpg](https://i.postimg.cc/43vnW2BP/Captura-de-pantalla-2025-06-24-141720.jpg)](https://postimg.cc/gwJYJs9L)g)
+[![Captura-de-pantalla-2025-06-24-141720.jpg](https://i.postimg.cc/43vnW2BP/Captura-de-pantalla-2025-06-24-141720.jpg)](https://postimg.cc/gwJYJs9L)
